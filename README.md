@@ -14,7 +14,7 @@
 
 - 🤝 I'm open to collaborating on **machine learning and web dev projects**
 
-- 👨‍💻 Check out my profile at [https://leetcode.com/lm1697/](https://leetcode.com/lm1697/)
+- 👨‍💻 Check out my profile at https://lovish-miglani.vercel.app/
 
 - 📫 How to reach me **lovishmiglaniwork@gmail.com**
 
