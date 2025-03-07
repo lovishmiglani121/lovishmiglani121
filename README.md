@@ -9,7 +9,7 @@
 
 - 🌍 I'm from **INDIA**
 
-- 🧠 I’m currently learning **machine learning with python**
+- 🧠 I’m currently learning **GEN AI**
 
 - 🤝 I'm open to collaborating on **machine learning and web dev projects**
 
